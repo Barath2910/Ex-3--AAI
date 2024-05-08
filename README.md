@@ -1,6 +1,6 @@
 <H3>Name: BARATH KUMAR J</H3>
 <H3>Reg No: 212221230012</H3>
-<H3>Ex No: 3</H3>
+<H3>Experiment 3</H3>
 <H3>Date: 04/03/2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>

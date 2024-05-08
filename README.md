@@ -32,8 +32,6 @@
     <li>Use .value_counts(normalize=True) on the samples of the query_variable to calculate approximate probabilities.</li></ul>
     Step 7:Print Approximate Probabilities:<br>
     <ul><li>Print the calculated approximate probabilities for the specified query_variable.</li></ul>
-
-
 ## Program:
 ```python
 #importing required libraries
@@ -93,16 +91,9 @@ query_result= samples[query_variable].value_counts(normalize=True)
 print("\n Approximate Probabilities of {}".format(query_variable))
 print(query_result)
 ```
-
-
-
 ## Output:
-
 ![image](https://github.com/Karthikeyan21001828/Ex-3--AAI/assets/93427303/1a6245d6-f037-4771-913f-94882fd18ab3)
-
 ![image](https://github.com/Karthikeyan21001828/Ex-3--AAI/assets/93427303/5a3449ec-b236-4874-be85-d4ed145fe7f8)
-
 ![image](https://github.com/Karthikeyan21001828/Ex-3--AAI/assets/93427303/313ec498-3536-4348-b442-f9752caa7165)
-
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
